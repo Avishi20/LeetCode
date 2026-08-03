@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- |
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
