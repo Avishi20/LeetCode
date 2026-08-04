@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
