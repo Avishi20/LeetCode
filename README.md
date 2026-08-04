@@ -43,6 +43,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Avishi20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
@@ -53,4 +54,12 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Avishi20/LeetCode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
