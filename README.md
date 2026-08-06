@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Avishi20/LeetCode/tree/master/0260-single-number-iii) |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
