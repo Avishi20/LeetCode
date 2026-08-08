@@ -26,12 +26,14 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
