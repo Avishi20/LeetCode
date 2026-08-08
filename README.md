@@ -28,12 +28,14 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avishi20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
