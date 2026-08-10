@@ -52,6 +52,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -126,4 +127,8 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avishi20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
