@@ -1,41 +1,29 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
 
-        if (lists.length == 0) {
-            return null;
+        PriorityQueue<ListNode> pq =
+            new PriorityQueue<>((a, b) -> a.val - b.val);
+
+        // Add first node of every list
+        for (ListNode list : lists) {
+            if (list != null) {
+                pq.add(list);
+            }
         }
-
-        ListNode result = null;
-
-        for (int i = 0; i < lists.length; i++) {
-            result = mergeTwoLists(result, lists[i]);
-        }
-
-        return result;
-    }
-
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
         ListNode dummy = new ListNode(0);
         ListNode temp = dummy;
 
-        while (list1 != null && list2 != null) {
+        while (!pq.isEmpty()) {
 
-            if (list1.val <= list2.val) {
-                temp.next = list1;
-                list1 = list1.next;
-            } else {
-                temp.next = list2;
-                list2 = list2.next;
-            }
+            ListNode node = pq.poll();
 
+            temp.next = node;
             temp = temp.next;
-        }
 
-        if (list1 != null) {
-            temp.next = list1;
-        } else {
-            temp.next = list2;
+            if (node.next != null) {
+                pq.add(node.next);
+            }
         }
 
         return dummy.next;
