@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Avishi20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Avishi20/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi20/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -91,6 +92,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
