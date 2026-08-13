@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi20/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Avishi20/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Avishi20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2270-number-of-ways-to-split-array](https://github.com/Avishi20/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avishi20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -85,6 +86,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avishi20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Avishi20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Avishi20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Avishi20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
