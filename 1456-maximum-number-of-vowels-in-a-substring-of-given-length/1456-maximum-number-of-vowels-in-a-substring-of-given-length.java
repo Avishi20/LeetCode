@@ -17,11 +17,10 @@ class Solution {
             if ("aeiou".indexOf(s.charAt(i - k)) != -1) {
                 count--;                                                                         
                          }
-
-        max = Math.max(max, count);
-          }
+         max = Math.max(max, count);
+        }
     return max;
-                                                                                                                                                    }
-                                                                                                                                                    }
+    }
+}
         
                                                                                                                 
