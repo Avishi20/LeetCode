@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Avishi20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Avishi20/LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avishi20/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avishi20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Avishi20/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
