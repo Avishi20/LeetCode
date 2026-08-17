@@ -20,6 +20,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Avishi20/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi20/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Avishi20/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
@@ -42,6 +43,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
