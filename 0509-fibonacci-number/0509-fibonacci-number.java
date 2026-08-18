@@ -6,10 +6,7 @@ class Solution {
         if(n==1){
             return 1;
         }
-        if(n>1){
-            n = fib(n-1) + fib(n-2);
-            
-        }
-      return n;  
+            return fib(n-1) + fib(n-2);
+  
     }
 }
