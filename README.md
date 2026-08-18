@@ -36,6 +36,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- |
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Avishi20/LeetCode/tree/master/0326-power-of-three) |
@@ -131,6 +132,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 ## Manacher
@@ -229,5 +231,6 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
