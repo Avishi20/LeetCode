@@ -42,6 +42,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0342-power-of-four](https://github.com/Avishi20/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Avishi20/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi20/LeetCode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
@@ -223,4 +226,8 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
