@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [2270-number-of-ways-to-split-array](https://github.com/Avishi20/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avishi20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Avishi20/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Avishi20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avishi20/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avishi20/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -146,6 +147,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Avishi20/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String Matching
 |  |
 | ------- |
