@@ -30,6 +30,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [2778-sum-of-squares-of-special-elements](https://github.com/Avishi20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Avishi20/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Avishi20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avishi20/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avishi20/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -50,6 +51,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Avishi20/LeetCode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/Avishi20/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Avishi20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avishi20/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
@@ -239,4 +243,12 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- |
 | [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
