@@ -41,6 +41,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Avishi20/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Avishi20/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Avishi20/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avishi20/LeetCode/tree/master/0342-power-of-four) |
@@ -150,6 +151,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Avishi20/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Avishi20/LeetCode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Avishi20/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String Matching
@@ -250,5 +252,6 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Avishi20/LeetCode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
