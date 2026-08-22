@@ -53,6 +53,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Avishi20/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
