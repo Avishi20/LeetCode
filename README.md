@@ -6,6 +6,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avishi20/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
@@ -133,6 +134,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Avishi20/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avishi20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -215,6 +217,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avishi20/LeetCode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/Avishi20/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
