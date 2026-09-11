@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0011-container-with-most-water](https://github.com/Avishi20/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Avishi20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
@@ -111,6 +112,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Avishi20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Avishi20/LeetCode/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
@@ -145,6 +147,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avishi20/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Avishi20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Avishi20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Avishi20/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
