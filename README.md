@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Avishi20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Avishi20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avishi20/LeetCode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -131,6 +133,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Avishi20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -183,6 +186,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Avishi20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Avishi20/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
