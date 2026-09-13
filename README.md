@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0066-plus-one](https://github.com/Avishi20/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Avishi20/LeetCode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Avishi20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Avishi20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avishi20/LeetCode/tree/master/0283-move-zeroes) |
@@ -182,6 +183,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Avishi20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Avishi20/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avishi20/LeetCode/tree/master/0525-contiguous-array) |
