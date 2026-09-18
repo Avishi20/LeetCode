@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0525-contiguous-array](https://github.com/Avishi20/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Avishi20/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Avishi20/LeetCode/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/Avishi20/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +70,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Avishi20/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Avishi20/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avishi20/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
@@ -138,6 +140,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0209-minimum-size-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avishi20/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Avishi20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Avishi20/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Avishi20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Avishi20/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -195,6 +198,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Avishi20/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Avishi20/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Avishi20/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi20/LeetCode/tree/master/1732-find-the-highest-altitude) |
