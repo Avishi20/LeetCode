@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0713-subarray-product-less-than-k](https://github.com/Avishi20/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Avishi20/LeetCode/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/Avishi20/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Avishi20/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Avishi20/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Avishi20/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Avishi20/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -114,6 +115,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0525-contiguous-array](https://github.com/Avishi20/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avishi20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Avishi20/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Avishi20/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Avishi20/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Avishi20/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Avishi20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -261,6 +263,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Avishi20/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Avishi20/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
