@@ -109,6 +109,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishi20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Avishi20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Avishi20/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avishi20/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Avishi20/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -165,6 +166,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0027-remove-element](https://github.com/Avishi20/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avishi20/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Avishi20/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Avishi20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Avishi20/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
@@ -228,6 +230,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0002-add-two-numbers](https://github.com/Avishi20/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Avishi20/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Avishi20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Avishi20/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Avishi20/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Avishi20/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -305,4 +308,8 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Avishi20/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Avishi20/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
