@@ -171,6 +171,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0160-intersection-of-two-linked-lists](https://github.com/Avishi20/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Avishi20/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Avishi20/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Avishi20/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0203-remove-linked-list-elements](https://github.com/Avishi20/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Avishi20/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Avishi20/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Avishi20/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
